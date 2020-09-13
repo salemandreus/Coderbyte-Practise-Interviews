@@ -1,5 +1,5 @@
 # Coderbyte-Practise-Interviews
-Doing the practise interview assignments on coderbyte in preparation of an actual timed interview to brush up on concepts and familiarise with the platform.
+Doing the free practise interview assignments on coderbyte in preparation of an actual timed interview to brush up on concepts and familiarise with the platform.
 
 ## Exercise 1 - "Arrays*: Find Intersection"
 
@@ -20,5 +20,13 @@ Doing the practise interview assignments on coderbyte in preparation of an actua
 
 * Works on Coderbyte.
     - See: `2_longest_word.py`.
+    
+## Exercise 3 - "Strings: Questions Marks" 
+
+#### Note: 
+
+* Not started.
+
+
 
 

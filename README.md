@@ -4,7 +4,7 @@ Doing the practise interview assignments on coderbyte in preparation of an actua
 ## Exercise 1 - "Arrays*: Find Intersection"
 
 #### Note:
-* **Does not work on platform**, works locally only!
+* **Does not work on Coderbyte**, works locally only!
     - See: The following comment in `1_find_intersection.py`:
     
             TODO:
@@ -18,7 +18,7 @@ Doing the practise interview assignments on coderbyte in preparation of an actua
 
 #### Note: 
 
-* Works.
+* Works on Coderbyte.
     - See: `2_longest_word.py`.
 
 
